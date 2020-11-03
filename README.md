@@ -21,5 +21,5 @@
   - random
 
 # Источники
-https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-https://habr.com/ru/post/63848/
+  - https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+  - https://habr.com/ru/post/63848/
